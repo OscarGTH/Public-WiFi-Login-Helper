@@ -7,7 +7,7 @@ The project utilizes Selenium headless to log in to the WiFi and smtplib to emai
 Geckodriver has to be in the project folder for this to work.
 
 
-# How to install
+# How to install and run
 1. Clone repository
 2. Run command "npm install -r requirements.txt"
 3. Fill out necessary info to "mail_conf.ini.dist" and rename/copy it to "mail_conf.ini".
