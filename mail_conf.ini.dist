@@ -1,0 +1,18 @@
+receiver_address = ""
+# Your GMAIL address
+sender_address = ""
+# Your GMAIL address password
+sender_pass = ""
+# Mail content. Has to contain <IP ADDRESS> because changed IP address is replaced in its place.
+mail_content = "Your Raspberry Pi public IP address has changed. The new IP address is (<IP ADDRESS>)."
+subject_line = "[NOTICE] Raspberry Pi IP address changed"
+# Some HTTPS page which works the best for prompting the public wifi login portal
+wifi_checking_page = "https://www.foreca.fi/"
+# WiFi login portal username
+wifi_user = ""
+# WiFi login portal password
+wifi_pass = ""
+# Name of the open Wifi that the machine should connect to.
+wifi_name = 
+# Operating system which the program is being run on. Options: [Windows, Debian].
+os = ""
